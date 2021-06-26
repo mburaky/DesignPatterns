@@ -1,5 +1,8 @@
 package tr.mby.com.structural.adapter;
 
+import tr.mby.com.structural.adapter.car.BugattiVeyron;
+import tr.mby.com.structural.adapter.car.Car;
+
 public class Application {
 
     public static void main(String[] args) {

@@ -1,5 +1,8 @@
 package tr.mby.com.structural.decorator;
 
+import tr.mby.com.structural.decorator.notify.Notifier;
+import tr.mby.com.structural.decorator.notify.PushNotifier;
+
 public class Application {
 
     public static void main(String[] args) {

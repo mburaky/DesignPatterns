@@ -1,4 +1,4 @@
-package tr.mby.com.structural.adapter;
+package tr.mby.com.structural.adapter.car;
 
 public interface Car {
 

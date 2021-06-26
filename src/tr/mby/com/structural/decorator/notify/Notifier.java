@@ -1,4 +1,4 @@
-package tr.mby.com.structural.decorator;
+package tr.mby.com.structural.decorator.notify;
 
 public interface Notifier {
     void sendMessage();

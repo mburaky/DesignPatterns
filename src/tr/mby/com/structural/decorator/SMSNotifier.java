@@ -1,5 +1,7 @@
 package tr.mby.com.structural.decorator;
 
+import tr.mby.com.structural.decorator.notify.Notifier;
+
 public class SMSNotifier extends NotifierDecorator {
 
     public SMSNotifier(Notifier notifier) {

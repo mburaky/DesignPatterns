@@ -1,5 +1,7 @@
 package tr.mby.com.structural.adapter;
 
+import tr.mby.com.structural.adapter.car.Car;
+
 public class CarAdapterImpl implements CarAdapter {
 
     Car carWithSpeedMhp;
